@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabilsyakir
-- 👀 I’m interested in data field
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data science
 - 📫 How to reach me mohammadnabilsyakir@gmail.com
 
